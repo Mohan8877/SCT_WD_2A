@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Scientific Calculator</title>
+  <link rel="stylesheet" href="SCT_WD_2A.css">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap" rel="stylesheet">
+
+</head>
+<body>
+  <div class="calculator-container">
+    <h1>🔬 Scientific Calculator</h1>
+    <div class="calculator">
+      <input type="text" id="display" disabled>
+
+      <div class="buttons">
+        <!-- First Row -->
+        <button onclick="clearDisplay()">AC</button>
+        <button onclick="deleteLast()">DEL</button>
+        <button onclick="append('(')">(</button>
+        <button onclick="append(')')">)</button>
+
+        <!-- Second Row -->
+        <button onclick="append('Math.sin(')">sin</button>
+        <button onclick="append('Math.cos(')">cos</button>
+        <button onclick="append('Math.tan(')">tan</button>
+        <button onclick="append('/')">÷</button>
+
+        <!-- Third Row -->
+        <button onclick="append('Math.log10(')">log</button>
+        <button onclick="append('Math.log(')">ln</button>
+        <button onclick="append('Math.sqrt(')">√</button>
+        <button onclick="append('*')">×</button>
+
+        <!-- Fourth Row -->
+        <button onclick="append('7')">7</button>
+        <button onclick="append('8')">8</button>
+        <button onclick="append('9')">9</button>
+        <button onclick="append('-')">−</button>
+
+        <!-- Fifth Row -->
+        <button onclick="append('4')">4</button>
+        <button onclick="append('5')">5</button>
+        <button onclick="append('6')">6</button>
+        <button onclick="append('+')">+</button>
+
+        <!-- Sixth Row -->
+        <button onclick="append('1')">1</button>
+        <button onclick="append('2')">2</button>
+        <button onclick="append('3')">3</button>
+        <button onclick="append('**2')">x²</button>
+
+        <!-- Seventh Row -->
+        <button onclick="append('0')">0</button>
+        <button onclick="append('.')">.</button>
+        <button onclick="append('Math.PI')">π</button>
+        <button onclick="append('Math.E')">e</button>
+
+        <!-- Eighth Row -->
+        <button onclick="append('**3')">x³</button>
+        <button onclick="append('1/')">1/x</button>
+        <button class="equals" onclick="calculate()">=</button>
+      </div>
+    </div>
+  </div>
+  <script src="SCT_WD_2A.js"></script>
+</body>
+</html>
