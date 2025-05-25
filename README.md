@@ -1,23 +1,17 @@
+# SCT_WD_2A - Calculator Web Application | SkillCraft Technology
+
+This project is a fully functional **Calculator Web App** created using **HTML**, **CSS**, and **JavaScript**. It supports basic arithmetic operations with a clean, user-friendly interface and responsive design.
+
+## 🧮 Features
+
+- ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
+- 🔢 Clear and backspace functions
+- 🎨 Modern gradient styling and smooth button animations
+- 📱 Responsive layout for all devices
+- ⏱️ Fast and accurate calculations
 
 
-🧮 Task 2A: Scientific Calculator Web Application
-      Welcome to the Scientific Calculator Web Application — a fully interactive, browser-based calculator built using HTML, CSS, and JavaScript. Developed as part of the 
-    SkillCraft Technology Internship, this app supports both basic and scientific operations, with advanced UI features and keyboard input support.
-
-🕹️ About the Project
-      This calculator enables users to perform a wide range of mathematical operations with precision. From basic arithmetic to scientific functions, the intuitive 2D- 
-    styled button interface and keyboard accessibility make it user-friendly across devices.
-
-✨ Key Features
-      ✅ Basic operations: Add, Subtract, Multiply, Divide
-      📐 Scientific functions: Square root, Power, Basic Trigonometric functions, Logarithms
-      🎨 UI with 3D button effects for interactive feedback
-      ⌨️ Full keyboard input support for efficient use
-      ⚠️ Error handling (e.g., divide by zero, invalid expressions)
-      🖥️ Responsive layout for all screen sizes
-      🌐 100% client-side (no backend/database)
-
-📂 Project Structure
+## 📂 Project Structure
    
     SCT_WD_2A/
     ├── SCT_WD_2A.html    # 🧱 HTML structure of the calculator
@@ -32,32 +26,30 @@
           your calculator will be live at:https://Mohan8877.github.io/SCT_WD_2A/
 
 
-🛠️ How to Use
-      Clone the Repository:
-      
-      git clone https://Mohan8877.github.io/SCT_WD_2A.git
-      cd SCT_WD_2A
-      
-      Run the App: Double-click SCT_WD_2A.html
-      Or use Live Server in VS Code for real-time preview
 
-Use the Calculator:
+## 🛠️ Technologies Used
 
-      Click buttons or use keyboard to input values
-      Use functions like sin, cos, log, √, etc.
-      Press AC to clear input or = to evaluate
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
 
-🖼️ Screenshots
-   
-    🧠 Scientific Mode – calculator1.png
+## 📁 File Info
 
-🤝 Contributions
-     Ideas for UI enhancements, new functions, or performance improvements? Pull requests and suggestions are welcome!
+- **File Name:** `SCT_WD_2A`
+- **Developer:** [Mohan8877](https://github.com/Mohan8877)
+- **Purpose:** A simple and efficient calculator tool designed to demonstrate basic UI and JavaScript functionality, developed for SkillCraft Technology.
 
-📬 Contact
-      📧 Email: muneppamohan@gmail.com
-      🔗 GitHub: Mohan8877
+## 🚀 How to Use
 
-✅ Made with Logic & Style
-      ❤ By M MOHAN as a part of SkillCraftTechnology Internship
-      
+1. Download or clone the repository.
+2. Open `index.html` in your browser.
+3. Use the buttons or keyboard input to perform calculations.
+
+## 📌 Note
+
+Can be enhanced with scientific functions, themes, or keyboard shortcuts.
+
+---
+
+🖩 Developed by **Mohan8877** | SkillCraft Technology
+
