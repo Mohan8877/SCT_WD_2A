@@ -1,3 +1,5 @@
+
+
 🧮 Task 2A: Scientific Calculator Web Application
       Welcome to the Scientific Calculator Web Application — a fully interactive, browser-based calculator built using HTML, CSS, and JavaScript. Developed as part of the 
     SkillCraft Technology Internship, this app supports both basic and scientific operations, with advanced UI features and keyboard input support.
