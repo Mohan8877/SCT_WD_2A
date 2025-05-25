@@ -16,16 +16,14 @@
       🌐 100% client-side (no backend/database)
 
 📂 Project Structure
-    bash
-    Copy
-    Edit
+   
     SCT_WD_2A/
     ├── SCT_WD_2A.html    # 🧱 HTML structure of the calculator
     ├── SCT_WD_2A.css     # 🎨 CSS for 3D buttons, layout, responsiveness
     ├── SCT_WD_2A.js      # ⚙️ Core calculator logic and keyboard input
     ├── images/
-    │   ├── image.jpg
-    │   └── image1-mode.jpg
+    │   ├── calculator.jpg
+    │   └── calculator1.jpg
     ├── README.md         # 📘 Project documentation
     🚀 Live Demo
             Once hosted with GitHub Pages, 
@@ -34,9 +32,7 @@
 
 🛠️ How to Use
       Clone the Repository:
-      bash
-      Copy
-      Edit
+      
       git clone https://Mohan8877.github.io/SCT_WD_2A.git
       cd SCT_WD_2A
       
@@ -50,8 +46,8 @@ Use the Calculator:
       Press AC to clear input or = to evaluate
 
 🖼️ Screenshots
-    📱 Standard View – image.jpg
-    🧠 Scientific Mode – image1-mode.jpg
+   
+    🧠 Scientific Mode – calculator1.png
 
 🤝 Contributions
      Ideas for UI enhancements, new functions, or performance improvements? Pull requests and suggestions are welcome!
